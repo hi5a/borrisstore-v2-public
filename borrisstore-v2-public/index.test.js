@@ -76,3 +76,5 @@ describe("Test for elements on Copyright page", () => {
     ).toBeInTheDocument();
   });
 });
+
+//hint
